@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed98b841-8ec9-4c7e-9579-1fcd68f4c60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/travel/templates/website/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel/templates/website/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travel/templates/website/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/templates/website/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/website/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/templates/website/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/website/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/templates/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/website/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/travel/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +64,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MKB-GOD\Documents\GitHub\my-site\templates" />
       <recent name="C:\Users\MKB-GOD\Documents\GitHub\my-site\travel\templates" />
     </key>
   </component>
@@ -77,7 +79,7 @@
       <workItem from="1782653136703" duration="2221000" />
       <workItem from="1782658019054" duration="44000" />
       <workItem from="1782658300317" duration="5762000" />
-      <workItem from="1784446403473" duration="2117000" />
+      <workItem from="1784446403473" duration="3076000" />
     </task>
     <servers />
   </component>

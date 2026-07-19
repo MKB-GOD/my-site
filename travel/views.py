@@ -8,4 +8,4 @@ def contact_page(request):
     return  render(request, "website/contact.html")
 
 def about_page(request):
-    return  render("website/about.html")
+    return  render(request, "website/about.html")
