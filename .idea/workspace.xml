@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed98b841-8ec9-4c7e-9579-1fcd68f4c60d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/statics/test.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel/templates/website/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/website/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel/templates/website/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/website/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel/templates/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/website/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/travel/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/website/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/website/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/website/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/website/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/website/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
       <list>
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -60,10 +62,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MKB-GOD\Documents\GitHub\my-site\statics" />
       <recent name="C:\Users\MKB-GOD\Documents\GitHub\my-site\templates" />
       <recent name="C:\Users\MKB-GOD\Documents\GitHub\my-site\travel\templates" />
     </key>
@@ -80,6 +84,8 @@
       <workItem from="1782658019054" duration="44000" />
       <workItem from="1782658300317" duration="5762000" />
       <workItem from="1784446403473" duration="3076000" />
+      <workItem from="1784475139563" duration="2558000" />
+      <workItem from="1784477748249" duration="645000" />
     </task>
     <servers />
   </component>
